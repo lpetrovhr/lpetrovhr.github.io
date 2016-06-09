@@ -1,4 +1,5 @@
 document.getElementById('reveal_password_container').style.display = 'none';
+document.getElementsByClassName('form--section_card-image-radio')[0].style.display = 'none';
 
 if(msieversion() < 9) { document.getElementById('revealPassword').style.display = 'none'; }
 
