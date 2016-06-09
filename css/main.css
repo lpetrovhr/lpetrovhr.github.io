@@ -273,6 +273,7 @@ ol > li:before {
 
 #revealPasswordImage {
   float: left;
+  display: none;
 }
 
 #reveal_password_container {
